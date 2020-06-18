@@ -11,7 +11,7 @@ Last update: 2020-06-18
 
 #### _src_ folder contains the following source files:
 * C-functions.R: a collection of R functions
-* n-200-01.R: an example of the simulation design
+* n-200-01.R: an example of the simulation designs. The code is applicable to other designs by modifying the parameters
 
 #### _results_ folder contains the results of all codes in the _src_ folder
 
