@@ -2,7 +2,7 @@
 
 This repository contains R codes for the simulation examples in the following paper:
 
-**Lee, Liao, Seo, and Shin: Oracle Estimation of a Change Point in High Dimensional Quantile Regression, (with Sokbae Lee, Yuan Liao, and Myung Hwan Seo), Journal of the American Statistical Association, 113(523), 2018, pp. 1184-1194 **
+**Lee, Liao, Seo, and Shin: Oracle Estimation of a Change Point in High Dimensional Quantile Regression, (with Sokbae Lee, Yuan Liao, and Myung Hwan Seo), Journal of the American Statistical Association, 113(523), 2018, pp. 1184-1194**
 
 
 Last update: 2020-06-18
